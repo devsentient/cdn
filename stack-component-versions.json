@@ -4,7 +4,7 @@
         {"name": "n8n", "url": "https://github.com/n8n-io/n8n", "ourLatest": "1.37.3"},
         {"name": "ollama", "url": "https://github.com/ollama/ollama", "ourLatest": "v0.1.41"},
         {"name": "Qdrant", "url": "https://github.com/qdrant/qdrant", "ourLatest": "1.8.1"},
-        {"name": "Airbyte", "url": "https://github.com/airbytehq/airbyte", "ourLatest": "0.50.47"},
+        {"name": "Airbyte", "url": "https://github.com/airbytehq/airbyte", "ourLatest": "0.60.1"},
         {"name": "Grafana", "url": "https://github.com/grafana/grafana", "ourLatest": "10.4.0"},
         {"name": "istio", "url": "https://github.com/istio/istio", "ourLatest": "1.22.0"},
         {"name": "kubernetes", "url": "https://github.com/kubernetes/kubernetes", "ourLatest": "v1.30.1"}
