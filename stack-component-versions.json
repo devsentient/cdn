@@ -95,6 +95,11 @@
     {
       "name": "Appsmith",
       "url": "https://github.com/appsmithorg/appsmith"
+    },
+    {
+      "name": "Prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "ourLatest": "2.19.2"
     }
   ]
 }
