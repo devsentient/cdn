@@ -13,7 +13,7 @@
     {
       "name": "ollama",
       "url": "https://github.com/ollama/ollama",
-      "ourLatest": "v0.1.41"
+      "ourLatest": "v0.1.45"
     },
     {
       "name": "Qdrant",
@@ -47,24 +47,54 @@
       "url": "https://github.com/keycloak/keycloak",
       "ourLatest": "21.1"
     },
-    { "name": "Supabase", "url": "https://github.com/supabase/supabase" },
-    { "name": "MinIO", "url": "https://github.com/minio/minio" },
-    { "name": "Milvus", "url": "https://github.com/milvus-io/milvus" },
-    { "name": "Superset", "url": "https://github.com/apache/superset" },
-    { "name": "Windmill", "url": "https://github.com/windmill-labs/windmill" },
-    { "name": "MLflow", "url": "https://github.com/mlflow/mlflow" },
-    { "name": "Airflow", "url": "https://github.com/apache/airflow" },
+    {
+      "name": "Supabase",
+      "url": "https://github.com/supabase/supabase"
+    },
+    {
+      "name": "MinIO",
+      "url": "https://github.com/minio/minio"
+    },
+    {
+      "name": "Milvus",
+      "url": "https://github.com/milvus-io/milvus"
+    },
+    {
+      "name": "Superset",
+      "url": "https://github.com/apache/superset"
+    },
+    {
+      "name": "Windmill",
+      "url": "https://github.com/windmill-labs/windmill"
+    },
+    {
+      "name": "MLflow",
+      "url": "https://github.com/mlflow/mlflow"
+    },
+    {
+      "name": "Airflow",
+      "url": "https://github.com/apache/airflow"
+    },
     {
       "name": "ActivePieces",
       "url": "https://github.com/activepieces/activepieces"
     },
-    { "name": "Bytebase", "url": "https://github.com/bytebase/bytebase" },
-    { "name": "ClickHouse", "url": "https://github.com/ClickHouse/ClickHouse" },
+    {
+      "name": "Bytebase",
+      "url": "https://github.com/bytebase/bytebase"
+    },
+    {
+      "name": "ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse"
+    },
     {
       "name": "Datahub",
       "url": "https://github.com/thedatahub/Datahub",
       "ourLatest": "release"
     },
-    { "name": "Appsmith", "url": "https://github.com/appsmithorg/appsmith" }
+    {
+      "name": "Appsmith",
+      "url": "https://github.com/appsmithorg/appsmith"
+    }
   ]
 }
