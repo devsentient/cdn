@@ -69,7 +69,8 @@
     },
     {
       "name": "MLflow",
-      "url": "https://github.com/mlflow/mlflow"
+      "url": "https://github.com/mlflow/mlflow",
+      "ourLatest": "2.8.0"
     },
     {
       "name": "Airflow",
