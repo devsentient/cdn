@@ -57,7 +57,8 @@
     },
     {
       "name": "Milvus",
-      "url": "https://github.com/milvus-io/milvus"
+      "url": "https://github.com/milvus-io/milvus",
+      "ourLatest": "2.4.3"
     },
     {
       "name": "Superset",
