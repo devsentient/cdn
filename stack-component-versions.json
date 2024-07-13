@@ -16,6 +16,11 @@
       "ourLatest": "v0.1.48"
     },
     {
+      "name": "open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "ourLatest": "1.0.1"
+    },
+    {
       "name": "Qdrant",
       "url": "https://github.com/qdrant/qdrant",
       "ourLatest": "1.8.1"
