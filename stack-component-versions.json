@@ -95,6 +95,11 @@
     {
       "name": "Appsmith",
       "url": "https://github.com/appsmithorg/appsmith"
+    },
+    {
+      "name": "Meltano",
+      "url": "https://github.com/meltano/meltano",
+      "ourLatest": "3.4.2"
     }
   ]
 }
