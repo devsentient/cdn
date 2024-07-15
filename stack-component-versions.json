@@ -3,17 +3,17 @@
     {
       "name": "Dify",
       "url": "https://github.com/langgenius/dify",
-      "ourLatest": "0.6.8"
+      "ourLatest": "0.6.12-fix1"
     },
     {
       "name": "n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "ourLatest": "1.45.1"
+      "ourLatest": "1.46.0"
     },
     {
       "name": "ollama",
       "url": "https://github.com/ollama/ollama",
-      "ourLatest": "v0.1.45"
+      "ourLatest": "v0.1.48"
     },
     {
       "name": "Qdrant",
@@ -23,7 +23,7 @@
     {
       "name": "Airbyte",
       "url": "https://github.com/airbytehq/airbyte",
-      "ourLatest": "0.50.47"
+      "ourLatest": "0.60.1"
     },
     {
       "name": "Grafana",
@@ -57,7 +57,8 @@
     },
     {
       "name": "Milvus",
-      "url": "https://github.com/milvus-io/milvus"
+      "url": "https://github.com/milvus-io/milvus",
+      "ourLatest": "2.4.3"
     },
     {
       "name": "Superset",
@@ -69,7 +70,8 @@
     },
     {
       "name": "MLflow",
-      "url": "https://github.com/mlflow/mlflow"
+      "url": "https://github.com/mlflow/mlflow",
+      "ourLatest": "2.8.0"
     },
     {
       "name": "Airflow",
@@ -95,6 +97,16 @@
     {
       "name": "Appsmith",
       "url": "https://github.com/appsmithorg/appsmith"
+    },
+    {
+      "name": "Prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "ourLatest": "2.19.2"
+    },
+    {
+      "name": "Airflow",
+      "url": "https://github.com/apache/airflow",
+      "ourLatest": "2.9.2"
     },
     {
       "name": "Meltano",
