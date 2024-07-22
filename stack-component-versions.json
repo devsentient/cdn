@@ -107,6 +107,11 @@
       "name": "Airflow",
       "url": "https://github.com/apache/airflow",
       "ourLatest": "2.9.2"
+    },
+    {
+      "name": "promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "ourLatest": "0.53.0-fix"
     }
   ]
 }
