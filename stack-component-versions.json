@@ -107,6 +107,11 @@
       "name": "Airflow",
       "url": "https://github.com/apache/airflow",
       "ourLatest": "2.9.2"
+    },
+    {
+      "name": "Flink",
+      "url": "https://github.com/apache/flink",
+      "ourLatest": "1.19.1"
     }
   ]
 }
