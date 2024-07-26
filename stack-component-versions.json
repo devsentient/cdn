@@ -13,7 +13,7 @@
     {
       "name": "ollama",
       "url": "https://github.com/ollama/ollama",
-      "ourLatest": "v0.1.48"
+      "ourLatest": "v0.2.8"
     },
     {
       "name": "Qdrant",
@@ -108,6 +108,11 @@
       "name": "Airflow",
       "url": "https://github.com/apache/airflow",
       "ourLatest": "2.9.2"
+    },
+    {
+      "name": "Meltano",
+      "url": "https://github.com/meltano/meltano",
+      "ourLatest": "3.4.2"
     }
   ]
 }
