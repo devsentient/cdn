@@ -1,14 +1,16 @@
-[
-	{
-		"title": "Register your local machine to SSH into Sessions",
-		"description": "Set up your local machine for SSH access to connect to your Shakudo sessions, enabling development remotely on your local machine.",
-		"video_url": "https://github.com/user-attachments/assets/cb95f4a3-a337-49da-acbe-b65a398a5cfb",
-		"tutorial_id": "register_your_local_machine_to_SSH_into_sessions_cb95f4a3-a337-49da-acbe-b65a398a5cfb",
-	},
-	{
-		"title": "Link to a new Git Repository",
-		"description": "Connect to multiple Git repositories and access your code in Shakudo workloads",
-		"video_url": "https://github.com/user-attachments/assets/b5d6f290-8716-42de-be2b-20b1b1f0a5cb",
-		"tutorial_id": "link_to_a_new_git_repository_b5d6f290-8716-42de-be2b-20b1b1f0a5cb",
-	}
-]
+{ 
+	"tutorials": [
+		{
+			"title": "Register your local machine to SSH into Sessions",
+			"description": "Set up your local machine for SSH access to connect to your Shakudo sessions, enabling development remotely on your local machine.",
+			"video_url": "https://github.com/user-attachments/assets/cb95f4a3-a337-49da-acbe-b65a398a5cfb",
+			"tutorial_id": "register_your_local_machine_to_SSH_into_sessions_cb95f4a3-a337-49da-acbe-b65a398a5cfb"
+		},
+		{
+			"title": "Link to a new Git Repository",
+			"description": "Connect to multiple Git repositories and access your code in Shakudo workloads",
+			"video_url": "https://github.com/user-attachments/assets/b5d6f290-8716-42de-be2b-20b1b1f0a5cb",
+			"tutorial_id": "link_to_a_new_git_repository_b5d6f290-8716-42de-be2b-20b1b1f0a5cb"
+		}
+	]
+}
