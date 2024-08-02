@@ -12,5 +12,10 @@
 			"video_url": "https://github.com/user-attachments/assets/b5d6f290-8716-42de-be2b-20b1b1f0a5cb",
 			"tutorial_id": "link_to_a_new_git_repository_b5d6f290-8716-42de-be2b-20b1b1f0a5cb"
 		}
-	]
+	],
+	"component_tutorials": {
+	  "ssh_key_register": "https://github.com/user-attachments/assets/e960308b-f08d-45ec-a4e2-faad33544fa4",
+	  "link_git_repository": "",
+	  "workflows_panel": ""
+	}
 }
