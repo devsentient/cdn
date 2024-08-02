@@ -13,7 +13,7 @@
     {
       "name": "ollama",
       "url": "https://github.com/ollama/ollama",
-      "ourLatest": "v0.2.8"
+      "ourLatest": "v0.3.0"
     },
     {
       "name": "Qdrant",
