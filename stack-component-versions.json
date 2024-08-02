@@ -113,6 +113,11 @@
       "name": "Meltano",
       "url": "https://github.com/meltano/meltano",
       "ourLatest": "3.4.2"
+    },
+    {
+      "name": "OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "ourLatest": "1.4.5"
     }
   ]
 }
