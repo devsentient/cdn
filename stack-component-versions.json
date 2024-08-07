@@ -118,6 +118,11 @@
       "name": "OpenMetadata",
       "url": "https://github.com/open-metadata/OpenMetadata",
       "ourLatest": "1.4.5"
+    },
+    {
+      "name": "Langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "ourLatest": "2.67.0"
     }
   ]
 }
