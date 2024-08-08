@@ -123,6 +123,11 @@
       "name": "Langfuse",
       "url": "https://github.com/langfuse/langfuse",
       "ourLatest": "2.67.0"
+    },
+    {
+      "name": "InfluxDB",
+      "url": "https://github.com/influxdata/influxdb",
+      "ourLatest": "v2.7.4"
     }
   ]
 }
