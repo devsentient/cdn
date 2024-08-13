@@ -123,6 +123,11 @@
       "name": "Langfuse",
       "url": "https://github.com/langfuse/langfuse",
       "ourLatest": "2.67.0"
+    },
+    {
+      "name": "LitGPT",
+      "url": "https://github.com/Lightning-AI/litgpt",
+      "ourLatest": "0.4.9"
     }
   ]
 }
