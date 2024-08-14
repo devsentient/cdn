@@ -39,6 +39,11 @@
       "name": "kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "ourLatest": "v1.30.1"
+    },
+    {
+      "name": "Alert Manager",
+      "url": "https://github.com/prometheus/alertmanager",
+      "ourLatest": "v0.21.0"
     }
   ],
   "other": [
@@ -49,11 +54,13 @@
     },
     {
       "name": "Supabase",
-      "url": "https://github.com/supabase/supabase"
+      "url": "https://github.com/supabase/postgres",
+      "ourLatest": "15.1.1"
     },
     {
       "name": "MinIO",
-      "url": "https://github.com/minio/minio"
+      "url": "https://github.com/minio/minio",
+      "ourLatest": "2024.2.4-debian-11-r0"
     },
     {
       "name": "Milvus",
@@ -62,7 +69,8 @@
     },
     {
       "name": "Superset",
-      "url": "https://github.com/apache/superset"
+      "url": "https://github.com/apache/superset",
+      "ourLatest": "3.1.0"
     },
     {
       "name": "Windmill",
@@ -75,29 +83,29 @@
       "ourLatest": "2.8.0"
     },
     {
-      "name": "Airflow",
-      "url": "https://github.com/apache/airflow"
-    },
-    {
       "name": "ActivePieces",
-      "url": "https://github.com/activepieces/activepieces"
+      "url": "https://github.com/activepieces/activepieces",
+      "ourLatest": "0.24.1"
     },
     {
       "name": "Bytebase",
-      "url": "https://github.com/bytebase/bytebase"
+      "url": "https://github.com/bytebase/bytebase",
+      "ourLatest": "2.16.0"
     },
     {
       "name": "ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse"
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "ourLatest": "23.7.4"
     },
     {
       "name": "Datahub",
       "url": "https://github.com/thedatahub/Datahub",
-      "ourLatest": "release"
+      "ourLatest": "0.13.2"
     },
     {
       "name": "Appsmith",
-      "url": "https://github.com/appsmithorg/appsmith"
+      "url": "https://github.com/appsmithorg/appsmith",
+      "ourLatest": "1.18"
     },
     {
       "name": "Prefect",
@@ -123,6 +131,186 @@
       "name": "Langfuse",
       "url": "https://github.com/langfuse/langfuse",
       "ourLatest": "2.67.0"
+    },
+    {
+      "name": "ArgoCD",
+      "url": "https://github.com/argoproj/argo-cd",
+      "ourLatest": "2.12.0"
+    },
+    {
+      "name": "Bitwarden",
+      "url": "https://github.com/bitwarden/server",
+      "ourLatest": "2024.7.2"
+    },
+    {
+      "name": "ChromaDB",
+      "url": "https://github.com/chroma-core/chroma",
+      "ourLatest": "0.4.24"
+    },
+    {
+      "name": "ClamAV",
+      "url": "https://github.com/Cisco-Talos/clamav",
+      "ourLatest": "1.2"
+    },
+    {
+      "name": "CloudSql-Proxy",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-sql-proxy",
+      "ourLatest": "2.8"
+    },
+    {
+      "name": "Dagster",
+      "url": "https://github.com/dagster-io/dagster",
+      "ourLatest": "1.7.8"
+    },
+    {
+      "name": "DCGM-Exporter",
+      "url": "https://github.com/nvidia/dcgm-exporter/",
+      "ourLatest": "3.4.0"
+    },
+    {
+      "name": "falco",
+      "url": "https://github.com/falcosecurity/falco",
+      "ourLatest": "0.38.1"
+    },
+    {
+      "name": "h2o-llmstudio",
+      "url": "https://github.com/h2oai/h2o-llmstudio",
+      "ourLatest": "1.4.1"
+    },
+    {
+      "name": "h2o-gpt",
+      "url": "https://github.com/h2oai/h2ogpt",
+      "ourLatest": "0.2.0"
+    },
+    {
+      "name": "harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "ourLatest": "2.5.2"
+    },
+    {
+      "name": "hyperdx",
+      "url": "https://github.com/hyperdxio/hyperdx",
+      "ourLatest": "1.9.0"
+    },
+    {
+      "name": "influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "ourLatest": "2.7.4"
+    },
+    {
+      "name": "kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "ourLatest": "0.17.11"
+    },
+    {
+      "name": "kiali",
+      "url": "https://github.com/kiali/kiali",
+      "ourLatest": "v1.39"
+    },
+    {
+      "name": "label-studio",
+      "url": "https://github.com/HumanSignal/label-studio",
+      "ourLatest": "1.12.0.post0"
+    },
+    {
+      "name": "litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "ourLatest": "v1.41.25"
+    },
+    {
+      "name": "local-ai",
+      "url": "https://github.com/mudler/LocalAI",
+      "ourLatest": "v2.8.2"
+    },
+    {
+      "name": "metaflow",
+      "url": "https://github.com/Netflix/metaflow",
+      "ourLatest": "2.3.1"
+    },
+    {
+      "name": "node-red",
+      "url": "https://github.com/node-red/node-red",
+      "ourLatest": "3.1.3"
+    },
+    {
+      "name": "Open-Webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "ourLatest": "0.1.12"
+    },
+    {
+      "name": "promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "ourLatest": "0.53.0"
+    },
+    {
+      "name": "pypiserver",
+      "url": "https://github.com/pypiserver/pypiserver",
+      "ourLatest": "v2.1.1"
+    },
+    {
+      "name": "retool",
+      "url": "https://github.com/tryretool/retool-helm",
+      "ourLatest": "3.52.14"
+    },
+    {
+      "name": "rill",
+      "url": "https://github.com/rilldata/rill",
+      "ourLatest": "0.46.2"
+    },
+    {
+      "name": "snowplow",
+      "url": "https://github.com/snowplow/snowbridge",
+      "ourLatest": "2.2.0"
+    },
+    {
+      "name": "sonarQube",
+      "url": "https://github.com/SonarSource/sonarqube",
+      "ourLatest": "10.6.0"
+    },
+    {
+      "name": "dbt",
+      "ourLatest": "1.8.0",
+      "url": "https://github.com/dbt-labs/dbt-core"
+    },
+    {
+      "name": "vanna",
+      "ourLatest": "0.6.2",
+      "url": "https://github.com/vanna-ai/vanna"
+    },
+    {
+      "name": "velero",
+      "url": "https://github.com/vmware-tanzu/velero",
+      "ourLatest": "1.13.0"
+    },
+    {
+      "name": "xinference",
+      "url": "https://github.com/xorbitsai/inference",
+      "ourLatest": "0.14.1"
+    },
+    {
+      "name": "gorrila-cli",
+      "url": "https://github.com/gorilla-llm/gorilla-cli",
+      "ourLatest": "0.0.9"
+    },
+    {
+      "name": "aider",
+      "url": "https://github.com/paul-gauthier/aider",
+      "ourLatest": "0.45.0"
+    },
+    {
+      "name": "Mattermost",
+      "url": "https://github.com/mattermost/mattermost",
+      "ourLatest": "9.7.2"
+    },
+    {
+      "name": "uv",
+      "url": "https://github.com/astral-sh/uv",
+      "ourLatest": "0.2.35"
+    },
+    {
+      "name": "nextcloud",
+      "url": "https://github.com/nextcloud/docker",
+      "ourLatest": "28.0.3"
     }
   ]
 }
