@@ -99,8 +99,8 @@
     },
     {
       "name": "Datahub",
-      "url": "https://github.com/thedatahub/Datahub",
-      "ourLatest": "0.13.2"
+      "url": "https://github.com/datahub-project/datahub",
+      "ourLatest": "0.10.5"
     },
     {
       "name": "Appsmith",
