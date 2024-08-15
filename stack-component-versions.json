@@ -311,6 +311,11 @@
       "name": "nextcloud",
       "url": "https://github.com/nextcloud/docker",
       "ourLatest": "28.0.3"
+    },
+    {
+      "name": "LitGPT",
+      "url": "https://github.com/Lightning-AI/litgpt",
+      "ourLatest": "0.4.9"
     }
   ]
 }
