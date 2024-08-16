@@ -313,6 +313,11 @@
       "ourLatest": "28.0.3"
     },
     {
+      "name": "LitGPT",
+      "url": "https://github.com/Lightning-AI/litgpt",
+      "ourLatest": "0.4.9"
+    },
+    {
       "name": "GitLab",
       "url": "https://gitlab.com/gitlab-org/gitlab",
       "ourLatest": "17.4"
