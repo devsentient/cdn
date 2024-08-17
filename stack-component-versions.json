@@ -321,6 +321,11 @@
       "name": "GitLab",
       "url": "https://gitlab.com/gitlab-org/gitlab",
       "ourLatest": "17.4"
+    },
+    {
+      "name": "langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "ourLatest": "1.0.14"
     }
   ]
 }
