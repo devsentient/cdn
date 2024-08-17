@@ -100,7 +100,7 @@
     {
       "name": "Datahub",
       "url": "https://github.com/datahub-project/datahub",
-      "ourLatest": "0.10.5"
+      "ourLatest": "0.13.2"
     },
     {
       "name": "Appsmith",
