@@ -3,7 +3,7 @@
     {
       "name": "Dify",
       "url": "https://github.com/langgenius/dify",
-      "ourLatest": "0.6.12-fix1"
+      "ourLatest": "0.7.0"
     },
     {
       "name": "n8n",
@@ -311,6 +311,16 @@
       "name": "nextcloud",
       "url": "https://github.com/nextcloud/docker",
       "ourLatest": "28.0.3"
+    },
+    {
+      "name": "LitGPT",
+      "url": "https://github.com/Lightning-AI/litgpt",
+      "ourLatest": "0.4.9"
+    },
+    {
+      "name": "GitLab",
+      "url": "https://gitlab.com/gitlab-org/gitlab",
+      "ourLatest": "17.4"
     },
     {
       "name": "langflow",
