@@ -323,7 +323,12 @@
       "ourLatest": "17.4"
     },
     {
-      "name": "langflow",
+      "name": "langflow-ide",
+      "url": "https://github.com/langflow-ai/langflow",
+      "ourLatest": "1.0.15"
+    },
+    {
+      "name": "langflow-runtime",
       "url": "https://github.com/langflow-ai/langflow",
       "ourLatest": "1.0.14"
     }
