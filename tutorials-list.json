@@ -17,8 +17,8 @@
 		{
 			"title": "Build a Dify LLM agent with RAG",
 			"description": "Build an LLM agent with RAG using Airbyte, MinIO, Qdrant, Dify, and Shakudo microservices",
-			"external_url": "https://www.notion.so/shakudo/Build-a-Dify-RAG-chatbot-0b58a195ac6545be8fb7ef8c26dfcf44?pvs=4",
-			"preview_image_url": "https://github.com/user-attachments/assets/cf08de14-82df-4354-9856-7e70915fbaa2",
+			"external_url": "https://www.notion.so/shakudo/Build-a-Dify-LLM-Agent-with-RAG-0b58a195ac6545be8fb7ef8c26dfcf44?pvs=4",
+			"preview_image_url": "https://github.com/user-attachments/assets/0dd314c7-9e3d-44db-847b-2bd0c5eee833",
 			"tutorial_id": "build_a_dify_llm_agent_with_rag_0b58a195ac6545be8fb7ef8c26dfcf44",
 			"component": "build_llm_agent"
 		}
