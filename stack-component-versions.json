@@ -326,6 +326,11 @@
       "name": "langflow",
       "url": "https://github.com/langflow-ai/langflow",
       "ourLatest": "1.0.14"
+    },
+    {
+      "name": "TabbyML",
+      "url": "https://github.com/TabbyML/tabby",
+      "ourLatest": "0.15.0"
     }
   ]
 }
