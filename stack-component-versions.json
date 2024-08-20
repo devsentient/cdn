@@ -13,7 +13,7 @@
     {
       "name": "ollama",
       "url": "https://github.com/ollama/ollama",
-      "ourLatest": "v0.3.4"
+      "ourLatest": "v0.3.6"
     },
     {
       "name": "Qdrant",
@@ -198,11 +198,6 @@
       "ourLatest": "1.9.0"
     },
     {
-      "name": "influxdb",
-      "url": "https://github.com/influxdata/influxdb",
-      "ourLatest": "2.7.4"
-    },
-    {
       "name": "kestra",
       "url": "https://github.com/kestra-io/kestra",
       "ourLatest": "0.17.11"
@@ -293,7 +288,7 @@
       "ourLatest": "0.14.1"
     },
     {
-      "name": "gorrila-cli",
+      "name": "gorilla-cli",
       "url": "https://github.com/gorilla-llm/gorilla-cli",
       "ourLatest": "0.0.9"
     },
