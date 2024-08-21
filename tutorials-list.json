@@ -16,17 +16,17 @@
 		},
 		{
 			"title": "Build a Dify LLM chatbot with RAG (Beginner)",
-			"description": "Build an LLM chatbot with RAG using Dify",
+			"description": "Build an LLM chatbot with RAG for PDF files using Dify",
 			"usage_docs_url": "https://www.notion.so/shakudo/Build-a-Dify-LLM-Chatbot-with-RAG-Beginner-32f896e698d8433480715129fad4d2ee?pvs=4",
-			"preview_image_url": "https://github.com/user-attachments/assets/534b3171-9f51-45e2-9fea-15aa3bf8be3b",
+			"preview_image_url": "https://github.com/user-attachments/assets/c28da397-4b70-4a11-b368-d04824ddc143",
 			"tutorial_id": "build_a_dify_llm_chatbot_with_rag_beginner_32f896e698d8433480715129fad4d2ee",
 			"component": "build_llm_chatbot_beginner"
 		},
 		{
 			"title": "Build a Dify LLM agent with RAG (Advanced)",
-			"description": "Build an LLM agent with RAG using Airbyte, MinIO, Qdrant, Dify, and Shakudo microservices",
+			"description": "Build an LLM agent with RAG for Markdown files using Airbyte, MinIO, Qdrant, Dify, and Shakudo microservices",
 			"usage_docs_url": "https://www.notion.so/shakudo/Build-a-Dify-LLM-Agent-with-RAG-Advanced-0b58a195ac6545be8fb7ef8c26dfcf44?pvs=4",
-			"preview_image_url": "https://github.com/user-attachments/assets/03a916ae-064c-4745-af8b-018a59ee3fd6",
+			"preview_image_url": "https://github.com/user-attachments/assets/e2b4ed5b-072f-41d3-b919-1ff29c07d376",
 			"tutorial_id": "build_a_dify_llm_agent_with_rag_advanced_0b58a195ac6545be8fb7ef8c26dfcf44",
 			"component": "build_llm_agent_advanced"
 		}
