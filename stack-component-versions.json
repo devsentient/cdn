@@ -80,7 +80,7 @@
     {
       "name": "MLflow",
       "url": "https://github.com/mlflow/mlflow",
-      "ourLatest": "2.8.0"
+      "ourLatest": "2.15.1"
     },
     {
       "name": "ActivePieces",
