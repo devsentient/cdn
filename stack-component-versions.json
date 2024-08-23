@@ -336,6 +336,11 @@
       "name": "langflow-runtime",
       "url": "https://github.com/langflow-ai/langflow",
       "ourLatest": "1.0.14"
+    },
+    {
+      "name": "taipy",
+      "url": "https://github.com/Avaiga/taipy",
+      "ourLatest": "3.1.1"
     }
   ]
 }
