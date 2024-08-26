@@ -336,6 +336,11 @@
       "name": "langflow-runtime",
       "url": "https://github.com/langflow-ai/langflow",
       "ourLatest": "1.0.14"
+    },
+    {
+      "name": "Neo4j",
+      "url": "https://github.com/neo4j/neo4j",
+      "ourLatest": "5.22.0"
     }
   ]
 }
