@@ -80,7 +80,7 @@
     {
       "name": "MLflow",
       "url": "https://github.com/mlflow/mlflow",
-      "ourLatest": "2.8.0"
+      "ourLatest": "2.15.1"
     },
     {
       "name": "ActivePieces",
@@ -131,6 +131,11 @@
       "name": "Langfuse",
       "url": "https://github.com/langfuse/langfuse",
       "ourLatest": "2.67.0"
+    },
+    {
+      "name": "InfluxDB",
+      "url": "https://github.com/influxdata/influxdb",
+      "ourLatest": "v2.7.4"
     },
     {
       "name": "ArgoCD",
@@ -323,9 +328,19 @@
       "ourLatest": "17.4"
     },
     {
-      "name": "langflow",
+      "name": "langflow-ide",
+      "url": "https://github.com/langflow-ai/langflow",
+      "ourLatest": "1.0.15"
+    },
+    {
+      "name": "langflow-runtime",
       "url": "https://github.com/langflow-ai/langflow",
       "ourLatest": "1.0.14"
+    },
+    {
+      "name": "Dremio",
+      "url": "https://github.com/dremio/dremio-cloud-tools",
+      "ourLatest": "25.0.0"
     },
     {
       "name": "TabbyML",
