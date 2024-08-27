@@ -351,6 +351,11 @@
       "name": "Dremio",
       "url": "https://github.com/dremio/dremio-cloud-tools",
       "ourLatest": "25.0.0"
+    },
+    {
+      "name": "TabbyML",
+      "url": "https://github.com/TabbyML/tabby",
+      "ourLatest": "0.15.0"
     }
   ]
 }
