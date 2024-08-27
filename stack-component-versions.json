@@ -80,7 +80,7 @@
     {
       "name": "MLflow",
       "url": "https://github.com/mlflow/mlflow",
-      "ourLatest": "2.8.0"
+      "ourLatest": "2.15.1"
     },
     {
       "name": "ActivePieces",
@@ -341,6 +341,11 @@
       "name": "taipy",
       "url": "https://github.com/Avaiga/taipy",
       "ourLatest": "3.1.1"
+    },
+    {
+      "name": "Dremio",
+      "url": "https://github.com/dremio/dremio-cloud-tools",
+      "ourLatest": "25.0.0"
     }
   ]
 }
