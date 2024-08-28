@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Airbyte",
+    "ourLatest": "0.60.1",
+    "enabled": true,
+    "componentLabel": "hyperplane.dev/stack-component=airflow",
+    "platformAppCategoryName": "Pipeline Orchestration",
+    "tooltipDescription": "Airflow is a platform for developing, scheduling, and monitoring batch-oriented workflows.",
+    "imageBackgroundColor": "#fff",
+    "imageUrl": "https://uploads-ssl.webflow.com/625447c67b621ab49bb7e3e5/63a48b1123ba5165b3aa3f98_pin_large%5B1%5D.png",
+    "platformAppLicense": {
+      "type": "Apache License",
+      "url": "https://raw.githubusercontent.com/apache/airflow/main/LICENSE"
+    }
+  },
+  {
+    "name": "rill",
+    "ourLatest": "0.46.2",
+    "enabled": true,
+    "platformAppCategoryName": "Business Intelligence",
+    "imageBackgroundColor": "#fff",
+    "imageUrl": "https://github.com/devsentient/cdn/assets/69875491/545101c9-9dfd-4619-bc8e-922121fe663a",
+    "platformAppLicense": {
+      "type": "Apache License 2.0",
+      "url": "https://raw.githubusercontent.com/rilldata/rill/main/LICENSE.md"
+    }
+  },
+  {
+    "name": "xinference",
+    "ourLatest": "0.14.1",
+    "enabled": true,
+    "platformAppCategoryName": "Model Inference",
+    "tooltipDescription": "Get up and running with large models locally.",
+    "imageBackgroundColor": "#fff",
+    "imageUrl": "https://github.com/devsentient/cdn/assets/80602936/656d4153-7a45-47f7-a249-b1df234589ed",
+    "platformAppLicense": {
+      "type": "Apache License 2.0",
+      "url": "https://raw.githubusercontent.com/xorbitsai/inference/main/LICENSE"
+    }
+  }
+]
