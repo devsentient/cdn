@@ -35,7 +35,7 @@
 			"description": "Build a chatbot which answers questions for tabular data in Dify using open-souce LLM model",
 			"usage_docs_url": "https://www.notion.so/shakudo/NLP-SQL-Chatbot-in-Dify-using-OpenSource-model-25b634bb4fee404488b358406c5d4d81",
 			"preview_image_url": "https://github.com/user-attachments/assets/90b6908f-5419-4f98-b9e6-084630656c7b",
-			"tutorial_id": "nlp-sql-chatbot-in-dify-using-OpenSource-model-25b634bb4fee404488b358406c5d4d81",
+			"tutorial_id": "NLP-SQL-Chatbot-in-Dify-using-Open-Source-Models-25b634bb4fee404488b358406c5d4d81",
 			"component": "dify_nlpsql_agent"
 		}
 	]
