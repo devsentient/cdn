@@ -11,7 +11,8 @@
     "platformAppLicense": {
       "type": "Apache License",
       "url": "https://raw.githubusercontent.com/apache/airflow/main/LICENSE"
-    }
+    },
+    "helmChartName": "airbyte"
   },
   {
     "name": "rill",
@@ -23,7 +24,8 @@
     "platformAppLicense": {
       "type": "Apache License 2.0",
       "url": "https://raw.githubusercontent.com/rilldata/rill/main/LICENSE.md"
-    }
+    },
+    "helmChartName": "rill"
   },
   {
     "name": "xinference",
@@ -36,6 +38,7 @@
     "platformAppLicense": {
       "type": "Apache License 2.0",
       "url": "https://raw.githubusercontent.com/xorbitsai/inference/main/LICENSE"
-    }
+    },
+    "helmChartName": "xinference"
   }
 ]
