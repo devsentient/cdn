@@ -356,6 +356,11 @@
       "name": "TabbyML",
       "url": "https://github.com/TabbyML/tabby",
       "ourLatest": "0.15.0"
+    },
+    {
+      "name": "Trino",
+      "url": "https://github.com/trinodb/charts",
+      "ourLatest": "0.28.0"
     }
   ]
 }
