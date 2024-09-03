@@ -1,6 +1,6 @@
 [
   {
-    "name": "Airbyte",
+    "name": "airbyte",
     "ourLatest": "0.60.1",
     "enabled": true,
     "componentLabel": "hyperplane.dev/stack-component=airflow",
