@@ -37,6 +37,20 @@
 			"preview_image_url": "https://github.com/user-attachments/assets/470be12c-e3ea-4656-bb53-2cecda8da799",
 			"tutorial_id": "nlp_sql_chatbot_in_dify_using_open_source_models_25b634bb4fee404488b358406c5d4d81",
 			"component": "dify_nlpsql_agent"
+		},
+		{
+			"title": "Create a Container Image",
+			"description": "Build a container image for development and workloads on Shakudo Platform",
+			"video_url": "https://github.com/user-attachments/assets/5e774d68-c2bb-4078-b1af-18a301a5d08a",
+			"tutorial_id": "create_container_image_5e774d68-c2bb-4078-b1af-18a301a5d08a",
+			"component": "create_container_image"
+		},
+		{
+			"title": "Create an Environment Config",
+			"description": "Create an environment config for development and workloads on Shakudo Platform",
+			"video_url": "https://github.com/user-attachments/assets/8588a161-6716-4df2-b6a7-b4f2f59d0ca4",
+			"tutorial_id": "create_env_config_8588a161-6716-4df2-b6a7-b4f2f59d0ca4",
+			"component": "create_env_config"
 		}
 	]
 }
