@@ -356,6 +356,12 @@
       "name": "TabbyML",
       "url": "https://github.com/TabbyML/tabby",
       "ourLatest": "0.15.0"
+    },
+    {
+      "name": "Nessie",
+      "url": "https://github.com/projectnessie/nessie",
+      "ourLatest": "0.96.1"
     }
+
   ]
 }
