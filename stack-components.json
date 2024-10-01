@@ -1,6 +1,6 @@
 [
   {
-    "name": "airbyte",
+    "name": "Airbyte",
     "ourLatest": "0.60.1",
     "enabled": true,
     "category": "Pipeline Orchestration",
