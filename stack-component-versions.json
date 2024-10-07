@@ -178,6 +178,11 @@
       "ourLatest": "0.38.1"
     },
     {
+      "name": "flink",
+      "url": "https://github.com/apache/flink",
+      "ourLatest": "1.20.0"
+    },
+    {
       "name": "h2o-llmstudio",
       "url": "https://github.com/h2oai/h2o-llmstudio",
       "ourLatest": "1.4.1"
@@ -341,6 +346,27 @@
       "name": "Neo4j",
       "url": "https://github.com/neo4j/neo4j",
       "ourLatest": "5.22.0"
+    },
+    {
+      "name": "taipy",
+      "url": "https://github.com/Avaiga/taipy",
+      "ourLatest": "3.1.1"
+    },
+    {
+      "name": "Dremio",
+      "url": "https://github.com/dremio/dremio-cloud-tools",
+      "ourLatest": "20.1.0"
+    },
+    {
+      "name": "TabbyML",
+      "url": "https://github.com/TabbyML/tabby",
+      "ourLatest": "0.15.0"
+    },
+    {
+      "name": "Nessie",
+      "url": "https://github.com/projectnessie/nessie",
+      "ourLatest": "0.96.1"
     }
+
   ]
 }
