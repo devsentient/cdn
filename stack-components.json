@@ -1,6 +1,6 @@
 [
   {
-    "name": "Airbyte",
+    "name": "Airbyte-auto",
     "ourLatest": "0.60.1",
     "enabled": true,
     "category": "Pipeline Orchestration",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "name": "Rill",
+    "name": "Rill-auto",
     "ourLatest": "0.46.2",
     "enabled": true,
     "category": "Business Intelligence",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "name": "xinference",
+    "name": "xinference-auto",
     "ourLatest": "0.14.1",
     "enabled": true,
     "category": "Model Inference",
