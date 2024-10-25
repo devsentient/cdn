@@ -363,6 +363,11 @@
       "ourLatest": "0.15.0"
     },
     {
+      "name": "Mongodb",
+      "url": "https://github.com/mongodb/mongo",
+      "ourLatest": "r7.0.15-rc1"
+    },
+    {
       "name": "Nessie",
       "url": "https://github.com/projectnessie/nessie",
       "ourLatest": "0.96.1"
