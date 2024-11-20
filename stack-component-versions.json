@@ -371,7 +371,11 @@
       "name": "Nessie",
       "url": "https://github.com/projectnessie/nessie",
       "ourLatest": "0.96.1"
+    },
+    {
+      "name": "Knowledge Table",
+      "url": "https://github.com/whyhow-ai/knowledge-table",
+      "ourLatest": "0.1.3"
     }
-
   ]
 }
