@@ -335,12 +335,12 @@
     {
       "name": "langflow-ide",
       "url": "https://github.com/langflow-ai/langflow",
-      "ourLatest": "1.0.15"
+      "ourLatest": "1.1.1"
     },
     {
       "name": "langflow-runtime",
       "url": "https://github.com/langflow-ai/langflow",
-      "ourLatest": "1.0.14"
+      "ourLatest": "1.1.0"
     },
     {
       "name": "Neo4j",
