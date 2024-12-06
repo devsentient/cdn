@@ -371,6 +371,11 @@
       "name": "Nessie",
       "url": "https://github.com/projectnessie/nessie",
       "ourLatest": "0.96.1"
+    },
+    {
+      "name": "SurrealDB",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "ourLatest": "v2.1.2"
     }
 
   ]
