@@ -371,7 +371,11 @@
       "name": "Nessie",
       "url": "https://github.com/projectnessie/nessie",
       "ourLatest": "0.96.1"
+    },
+    {
+      "name": "Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "ourLatest": "2.2.1"
     }
-
   ]
 }
