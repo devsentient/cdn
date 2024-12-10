@@ -356,6 +356,11 @@
       "name": "TabbyML",
       "url": "https://github.com/TabbyML/tabby",
       "ourLatest": "0.15.0"
+    },
+    {
+      "name": "Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "ourLatest": "2.2.1"
     }
   ]
 }
