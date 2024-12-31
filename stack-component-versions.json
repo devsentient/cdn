@@ -376,7 +376,11 @@
       "name": "SurrealDB",
       "url": "https://github.com/surrealdb/surrealdb",
       "ourLatest": "v2.1.2"
+    },
+    {
+      "name": "LlamaCloud",
+      "url": "https://github.com/run-llama",
+      "ourLatest": "0.1.40"
     }
-
   ]
 }
