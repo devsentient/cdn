@@ -376,7 +376,11 @@
       "name": "SurrealDB",
       "url": "https://github.com/surrealdb/surrealdb",
       "ourLatest": "v2.1.2"
+    },
+    {
+      "name": "screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "ourLatest": "0.0.1"
     }
-
   ]
 }
