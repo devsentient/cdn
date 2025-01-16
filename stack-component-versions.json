@@ -376,6 +376,11 @@
       "name": "SurrealDB",
       "url": "https://github.com/surrealdb/surrealdb",
       "ourLatest": "v2.1.2"
+    },
+    {
+      "name": "Keep",
+      "url": "https://github.com/keephq/keep",
+      "ourLatest": "0.33.8"
     }
 
   ]
