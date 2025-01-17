@@ -130,7 +130,7 @@
     {
       "name": "Langfuse",
       "url": "https://github.com/langfuse/langfuse",
-      "ourLatest": "2.86.0"
+      "ourLatest": "3.8.0"
     },
     {
       "name": "InfluxDB",
