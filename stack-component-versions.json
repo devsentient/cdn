@@ -130,7 +130,7 @@
     {
       "name": "Langfuse",
       "url": "https://github.com/langfuse/langfuse",
-      "ourLatest": "2.86.0"
+      "ourLatest": "3.8.0"
     },
     {
       "name": "InfluxDB",
@@ -381,7 +381,11 @@
       "name": "Keep",
       "url": "https://github.com/keephq/keep",
       "ourLatest": "0.33.8"
+    },
+    {
+      "name": "WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "ourLatest": "0.14.3"
     }
-
   ]
 }
