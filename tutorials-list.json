@@ -51,6 +51,14 @@
 			"video_url": "https://github.com/user-attachments/assets/8588a161-6716-4df2-b6a7-b4f2f59d0ca4",
 			"tutorial_id": "create_env_config_8588a161-6716-4df2-b6a7-b4f2f59d0ca4",
 			"component": "create_env_config"
+		},
+		{
+			"title": "How to Build an Effective GraphRAG System for Your Knowledge Base",
+			"description": "Build a GraphRAG system for efficient information retrieval on Shakudo platform using MinIO, Neo4j, Ollama, and Open WebUI",
+			"usage_docs_url": "https://www.notion.so/shakudo/How-to-Build-an-Effective-GraphRAG-System-for-Your-Knowledge-Base-171d36b5509080cc85c0f4fea6e60257",
+			"preview_image_url": "https://github.com/user-attachments/assets/0c148eec-4ed4-4908-a7d8-5c447fb26ba3",
+			"tutorial_id": "how_to_build_an_effective_graphRAG_system_for_your_knowledge_base_171d36b5509080cc85c0f4fea6e60257",
+			"component": "create_graph_rag"
 		}
 	]
 }
