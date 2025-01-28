@@ -15,6 +15,14 @@
 			"component": "link_git_repository"
 		},
 		{
+			"title": "How to Build an Effective GraphRAG System for Your Knowledge Base",
+			"description": "Build a GraphRAG system for efficient information retrieval on Shakudo platform using MinIO, Neo4j, Ollama, and Open WebUI",
+			"usage_docs_url": "https://www.notion.so/shakudo/How-to-Build-an-Effective-GraphRAG-System-for-Your-Knowledge-Base-185d36b55090802786e1f0c568391aa9",
+			"preview_image_url": "https://github.com/user-attachments/assets/61501a57-e929-4e41-9082-242e0450c4d2",
+			"tutorial_id": "how_to_build_an_effective_graphRAG_system_for_your_knowledge_base_171d36b5509080cc85c0f4fea6e60257",
+			"component": "create_graph_rag"
+		},
+		{
 			"title": "Chatbot for beginners: Build a RAG chatbot with LLMs",
 			"description": "Build a Dify RAG chatbot for PDF files",
 			"usage_docs_url": "https://www.notion.so/shakudo/Chatbot-for-Beginners-Build-a-RAG-Chatbot-with-LLMs-32f896e698d8433480715129fad4d2ee",
@@ -51,14 +59,6 @@
 			"video_url": "https://github.com/user-attachments/assets/8588a161-6716-4df2-b6a7-b4f2f59d0ca4",
 			"tutorial_id": "create_env_config_8588a161-6716-4df2-b6a7-b4f2f59d0ca4",
 			"component": "create_env_config"
-		},
-		{
-			"title": "How to Build an Effective GraphRAG System for Your Knowledge Base",
-			"description": "Build a GraphRAG system for efficient information retrieval on Shakudo platform using MinIO, Neo4j, Ollama, and Open WebUI",
-			"usage_docs_url": "https://www.notion.so/shakudo/How-to-Build-an-Effective-GraphRAG-System-for-Your-Knowledge-Base-185d36b55090802786e1f0c568391aa9",
-			"preview_image_url": "https://github.com/user-attachments/assets/61501a57-e929-4e41-9082-242e0450c4d2",
-			"tutorial_id": "how_to_build_an_effective_graphRAG_system_for_your_knowledge_base_171d36b5509080cc85c0f4fea6e60257",
-			"component": "create_graph_rag"
 		}
 	]
 }
