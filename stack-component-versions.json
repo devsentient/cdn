@@ -391,6 +391,11 @@
       "name": "WrenAI",
       "url": "https://github.com/Canner/WrenAI",
       "ourLatest": "0.14.3"
+    },
+    {
+      "name": "OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "ourLatest": "0.22.0"
     }
   ]
 }
