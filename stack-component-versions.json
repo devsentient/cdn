@@ -225,7 +225,7 @@
     {
       "name": "litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "ourLatest": "main-stable"
+      "ourLatest": "main-v1.61.7"
     },
     {
       "name": "local-ai",
