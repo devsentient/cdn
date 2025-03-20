@@ -23,7 +23,7 @@
     {
       "name": "Airbyte",
       "url": "https://github.com/airbytehq/airbyte",
-      "ourLatest": "0.60.1"
+      "ourLatest": "1.5.1"
     },
     {
       "name": "Grafana",
