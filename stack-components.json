@@ -34,24 +34,5 @@
       "type": "Apache License 2.0",
       "url": "https://raw.githubusercontent.com/rilldata/rill/main/LICENSE.md"
     }
-  },
-  {
-    "name": "xinference-auto",
-    "ourLatest": "0.14.1",
-    "enabled": true,
-    "category": "Model Inference",
-    "tooltipDescription": "Get up and running with large models locally.",
-    "helm": {
-      "name": "xinference",
-      "version": "latest"
-    },
-    "image": {
-      "backgroundColor": "#fff",
-      "url": "https://github.com/devsentient/cdn/assets/80602936/656d4153-7a45-47f7-a249-b1df234589ed"
-    },
-    "license": {
-      "type": "Apache License 2.0",
-      "url": "https://raw.githubusercontent.com/xorbitsai/inference/main/LICENSE"
-    }
   }
 ]
