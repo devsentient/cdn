@@ -3,12 +3,12 @@
     {
       "name": "Dify",
       "url": "https://github.com/langgenius/dify",
-      "ourLatest": "0.14.0"
+      "ourLatest": "1.7.0"
     },
     {
       "name": "n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "ourLatest": "1.69.2"
+      "ourLatest": "1.97.1"
     },
     {
       "name": "ollama",
