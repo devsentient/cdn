@@ -310,7 +310,7 @@
     {
       "name": "Mattermost",
       "url": "https://github.com/mattermost/mattermost",
-      "ourLatest": "9.7.2"
+      "ourLatest": "9.11.1"
     },
     {
       "name": "uv",
