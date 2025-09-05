@@ -245,7 +245,7 @@
     {
       "name": "open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "ourLatest": "0.3.32"
+      "ourLatest": "0.5.16"
     },
     {
       "name": "promptfoo",
