@@ -396,6 +396,11 @@
       "name": "OpenHands",
       "url": "https://github.com/All-Hands-AI/OpenHands",
       "ourLatest": "0.43.0"
+    },
+    {
+      "name": "lakefs",
+      "url": "https://github.com/treeverse/lakeFS/tree/master",
+      "ourLatest": "1.71.0"
     }
   ]
 }
