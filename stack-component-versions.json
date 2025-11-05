@@ -401,6 +401,11 @@
       "name": "lakefs",
       "url": "https://github.com/treeverse/lakeFS/tree/master",
       "ourLatest": "1.71.0"
+    },
+    {
+      "name": "SigNoz",
+      "url": "https://github.com/SigNoz/signoz",
+      "ourLatest": "0.100.0"
     }
   ]
 }
