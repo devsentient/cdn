@@ -406,6 +406,11 @@
       "name": "SigNoz",
       "url": "https://github.com/SigNoz/signoz",
       "ourLatest": "0.100.0"
+    },
+    {
+      "name": "OpenCost",
+      "url": "https://github.com/OpenCost/opencost",
+      "ourLatest": "1.118.0"
     }
   ]
 }
